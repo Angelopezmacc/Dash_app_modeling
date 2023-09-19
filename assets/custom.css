@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Proxima Nova Bold';
-  src: url('fonts/FontsFree-Net-Proxima-Nova-Bold.otf') format('opentype');
+  src: url('./fonts/FontsFree-Net-Proxima-Nova-Bold.otf') format('opentype');
 }
 
 .datepicker .rc-slider-handle {
@@ -23,10 +23,10 @@
 }
 
 .title {
-    background-image: url('cartagena_header.jpg'); /* Ruta a tu imagen de fondo */
+    background-image: url('./lorenz_attractor_rainbow.png'); /* Ruta a tu imagen de fondo */
     background-size: cover;
     background-position: center;
-    color: white !important;
+    color: red !important;
     padding: 20px; /* Espaciado interno para que el texto no quede pegado al borde de la imagen */
 }
 
