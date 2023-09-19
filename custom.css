@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Proxima Nova Bold';
+  src: url('fonts/FontsFree-Net-Proxima-Nova-Bold.otf') format('opentype');
+}
+
+.datepicker .rc-slider-handle {
+  font-family: 'Proxima Nova Bold', sans-serif !important;
+  /* Otros estilos para los handles del Date Picker */
+}
+
+.DateInput_input, .DateInput_input_1 {
+  color: inherit !important;
+  text-align: center;
+  font-size: 15px ! important;
+  Height: 25px !important;
+  Width: 100% !important;
+  padding-left: 3px !important;
+  padding-right: 3px !important;
+}
+
+.DayPicker-Caption {
+    font-size: 6px;
+}
+
+.title {
+    background-image: url('cartagena_header.jpg'); /* Ruta a tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    color: white !important;
+    padding: 20px; /* Espaciado interno para que el texto no quede pegado al borde de la imagen */
+}
+
+.small-note {
+    font-size: 10px;
+}

@@ -1,0 +1,365 @@
+Country,Vertical,Training Start,Requisition ID,Status,Language,Demand,Offers Accepted,Hired,Applicants
+Bulgaria,Technology,2021-03-22 00:00:00,24081,Open,English,2,2,1,98
+Bulgaria,Technology,2021-01-11 00:00:00,24704,Filled,English,2,3,2,79
+Bulgaria,Technology,2021-02-15 00:00:00,30196,Open,English,1,0,0,113
+Bulgaria,Technology,2021-02-15 00:00:00,24212,Open,English,1,0,0,155
+Bulgaria,Technology,2021-02-22 00:00:00,27414,Open,English,5,4,3,25
+Bulgaria,Technology,2021-03-08 00:00:00,27166,Open,English,1,0,0,76
+Bulgaria,FTP - Financial Transformation Process,2021-03-15 00:00:00,26633,Open,English,1,1,0,83
+Bulgaria,Technology,2021-01-04 00:00:00,27958,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,28867,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,24116,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,25423,Canceled,German,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,26908,Filled,German,1,1,1,158
+Bulgaria,Technology,2021-01-11 00:00:00,22935,Filled,German,2,2,2,140
+Bulgaria,Technology,2021-02-21 00:00:00,22542,Open,German,2,2,2,154
+Bulgaria,Technology,2021-02-15 00:00:00,23601,Canceled,German,2,0,0,0
+Bulgaria,Technology,2021-02-15 00:00:00,29632,Open,German,1,0,0,108
+Bulgaria,Amazon,2021-03-01 00:00:00,23690,Open,German,2,2,1,170
+Bulgaria,Amazon,2021-03-01 00:00:00,25467,Open,German,10,4,0,166
+Bulgaria,Amazon,2021-03-08 00:00:00,26005,Open,German,10,1,0,148
+Bulgaria,Technology,2021-03-22 00:00:00,30204,Open,German,1,0,0,106
+Bulgaria,Technology,2021-03-29 00:00:00,29897,Open,German,1,1,1,175
+Bulgaria,Amazon,2021-02-21 00:00:00,25065,Open,Italian,7,8,7,58
+Bulgaria,Technology,2021-02-21 00:00:00,21198,Open,Italian,1,1,1,82
+Bulgaria,Technology,2021-02-15 00:00:00,23410,Canceled,Italian,1,0,0,0
+Bulgaria,Technology,2021-02-15 00:00:00,28991,Open,Italian,1,1,1,117
+Bulgaria,Technology,2021-02-15 00:00:00,22070,Open,Italian,1,1,1,72
+Bulgaria,Technology,2021-02-22 00:00:00,24762,Open,Italian,5,3,1,54
+Bulgaria,Technology,2021-03-08 00:00:00,28819,Open,Italian,1,1,1,173
+Bulgaria,Technology,2021-03-15 00:00:00,22624,Open,Italian,1,0,0,41
+Bulgaria,Technology,2021-03-22 00:00:00,20328,Open,Italian,1,0,0,170
+Bulgaria,Technology,2021-01-04 00:00:00,21357,Canceled,Portuguese,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,30051,Filled,Portuguese,2,1,1,32
+Bulgaria,Technology,2021-01-11 00:00:00,30484,Filled,Portuguese,1,1,1,30
+Bulgaria,Technology,2021-02-21 00:00:00,21549,Open,Portuguese,2,2,2,89
+Bulgaria,Technology,2021-02-15 00:00:00,25553,Open,Portuguese,1,1,1,35
+Bulgaria,Technology,2021-02-15 00:00:00,27437,Open,Portuguese,1,1,1,138
+Bulgaria,Technology,2021-02-15 00:00:00,23340,Open,Portuguese,1,1,1,151
+Bulgaria,Technology,2021-02-22 00:00:00,20215,Open,Portuguese,1,2,0,72
+Bulgaria,Technology,2021-03-08 00:00:00,20288,Open,Portuguese,1,0,0,106
+Bulgaria,Technology,2021-03-08 00:00:00,26604,Open,Portuguese,1,0,0,154
+Bulgaria,Technology,2021-03-08 00:00:00,29090,Open,Portuguese,1,1,1,128
+Bulgaria,Retail,2021-03-15 00:00:00,29134,Open,Portuguese,2,0,0,81
+Bulgaria,Technology,2021-03-22 00:00:00,22746,Open,Portuguese,1,0,0,149
+Bulgaria,Technology,2021-03-22 00:00:00,25371,Open,Portuguese,1,1,0,107
+Bulgaria,Technology,2021-03-22 00:00:00,21102,Open,Portuguese,1,1,0,44
+Bulgaria,Technology,2021-03-22 00:00:00,21263,Open,Portuguese,2,0,0,103
+Bulgaria,Technology,2021-04-12 00:00:00,24469,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,21621,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,27095,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-04 00:00:00,27913,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-01-11 00:00:00,26453,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-02-15 00:00:00,23044,Canceled,English,1,0,0,0
+Bulgaria,Technology,2021-03-01 00:00:00,29866,Canceled,English,1,0,0,0
+Canada,Telecommunication,2021-01-04 00:00:00,23183,Canceled,English,30,0,0,0
+Canada,Telecommunication,2021-01-25 00:00:00,22360,Canceled,English,15,8,0,19
+China,Insurance,2021-01-11 00:00:00,28535,Filled,Chinese,1,1,1,77
+China,Retail,2021-01-11 00:00:00,21327,Filled,Chinese,7,9,7,171
+China,Retail,2021-01-18 00:00:00,20317,Filled,Chinese,3,5,3,145
+China,Retail,2021-01-18 00:00:00,28240,Filled,Chinese,3,9,7,163
+China,Retail,2021-01-18 00:00:00,20845,Filled,Chinese,2,2,2,108
+China,Insurance,2021-02-19 00:00:00,30932,Open,Chinese,1,0,0,140
+China,Insurance,2021-02-19 00:00:00,27652,Open,Chinese,1,0,0,27
+China,Retail,2021-02-23 00:00:00,26869,Open,Chinese,5,1,1,172
+China,Retail,2021-02-23 00:00:00,30758,On Hold,Chinese (Mandarin),4,0,0,12
+China,Retail,2021-02-26 00:00:00,26918,On Hold,Chinese (Mandarin),3,0,0,26
+China,Retail,2021-02-26 00:00:00,24380,On Hold,Chinese (Mandarin),3,0,0,27
+China,Retail,2021-03-02 00:00:00,29443,On Hold,Chinese (Mandarin),3,0,0,34
+China,Retail,2021-03-05 00:00:00,27040,On Hold,Chinese (Mandarin),3,0,0,16
+Colombia,Enterprise,2021-01-01 00:00:00,28685,Canceled,English,1,0,0,0
+Colombia,Travel,2021-01-04 00:00:00,26807,Filled,English,6,6,6,59
+Colombia,Banking,2021-01-08 00:00:00,30724,Canceled,English,1,0,0,0
+Colombia,Enterprise,2021-01-08 00:00:00,27978,Filled,English,1,1,1,51
+Colombia,Banking,2021-01-11 00:00:00,29759,Filled,English,20,30,20,119
+Colombia,Banking,2021-01-12 00:00:00,28442,Filled,English,5,5,5,100
+Colombia,Banking,2021-01-12 00:00:00,27734,Filled,English,19,19,19,109
+Colombia,Enterprise,2021-01-14 00:00:00,29563,Filled,English,1,1,1,17
+Colombia,Technology,2021-01-16 00:00:00,22014,Filled,English,1,1,1,30
+Colombia,Healthcare,2021-01-18 00:00:00,21225,Canceled,English,15,0,0,0
+Colombia,Telecommunication,2021-01-18 00:00:00,26349,Filled,English,2,2,2,91
+Colombia,Banking,2021-01-18 00:00:00,24126,Filled,English,10,13,9,154
+Colombia,Telecommunication,2021-01-18 00:00:00,21061,Filled,English,10,10,10,135
+Colombia,Banking,2021-01-19 00:00:00,27943,Filled,English,16,14,14,81
+Colombia,Banking,2021-01-21 00:00:00,26816,Filled,English,5,5,5,112
+Colombia,Technology,2021-01-25 00:00:00,30712,Canceled,English,1,0,0,0
+Colombia,Banking,2021-01-25 00:00:00,26635,Canceled,English,25,0,0,0
+Colombia,Banking,2021-01-25 00:00:00,23565,Filled,English,5,5,5,96
+Colombia,Banking,2021-01-25 00:00:00,24076,Filled,English,14,26,11,110
+Colombia,Technology,2021-01-25 00:00:00,25930,Filled,English,10,10,10,128
+Colombia,Banking,2021-01-26 00:00:00,27286,Filled,English,4,4,4,149
+Colombia,Banking,2021-01-30 00:00:00,23237,Canceled,English,18,0,0,0
+Colombia,Banking,2021-02-01 00:00:00,23129,Filled,English,5,6,5,41
+Colombia,Banking,2021-02-01 00:00:00,21282,Filled,English,10,10,10,25
+Colombia,Banking,2021-02-01 00:00:00,24447,Filled,English,10,11,10,175
+Colombia,Technology,2021-02-01 00:00:00,25151,Filled,English,10,11,10,163
+Colombia,Technology,2021-02-01 00:00:00,25034,Filled,English,6,6,6,29
+Colombia,Technology,2021-02-08 00:00:00,24435,Canceled,English,1,0,0,0
+Colombia,Banking,2021-02-21 00:00:00,23716,Open,English,3,0,0,39
+Colombia,Banking,2021-02-21 00:00:00,21793,Open,English,24,0,0,21
+Colombia,Banking,2021-02-21 00:00:00,30538,Open,English,20,22,22,110
+Colombia,Technology,2021-02-21 00:00:00,23799,Open,English,12,13,12,45
+Colombia,Technology,2021-02-21 00:00:00,20909,Open,English,13,10,8,74
+Colombia,Technology,2021-02-21 00:00:00,22278,Open,English,15,12,12,15
+Colombia,Banking,2021-02-26 00:00:00,24047,Open,English,7,0,0,108
+Colombia,Banking,2021-02-26 00:00:00,20371,Open,English,3,0,0,158
+Colombia,Banking,2021-02-15 00:00:00,23423,Open,English,15,0,0,97
+Colombia,Telecommunication,2021-02-15 00:00:00,28992,Open,English,15,0,0,130
+Colombia,Technology,2021-02-16 00:00:00,26212,Open,English,1,0,0,75
+Colombia,Technology,2021-02-18 00:00:00,28230,Canceled,English,2,0,0,0
+Colombia,Technology,2021-02-18 00:00:00,27601,Filled,English,2,1,1,56
+Colombia,Technology,2021-02-18 00:00:00,24154,Open,English,2,0,0,82
+Colombia,Technology,2021-02-18 00:00:00,28121,Open,English,2,0,0,139
+Colombia,Technology,2021-02-22 00:00:00,26161,Canceled,English,1,0,0,0
+Colombia,Technology,2021-02-22 00:00:00,22994,Filled,English,1,1,1,60
+Colombia,Technology,2021-02-22 00:00:00,20898,Filled,English,2,1,1,171
+Colombia,Technology,2021-02-22 00:00:00,23731,Open,English,1,0,0,25
+Colombia,Banking,2021-02-23 00:00:00,28511,Canceled,English,5,0,0,0
+Colombia,Telecommunication,2021-02-26 00:00:00,24701,Open,English,15,0,0,128
+Colombia,Technology,2021-03-01 00:00:00,28397,Open,English,11,0,0,105
+Colombia,Technology,2021-03-01 00:00:00,26532,Open,English,1,0,0,145
+Colombia,Technology,2021-03-01 00:00:00,30004,Open,English,1,0,0,33
+Colombia,Technology,2021-03-03 00:00:00,25527,Open,English,1,0,0,35
+Colombia,Technology,2021-03-03 00:00:00,23178,Open,English,1,1,1,180
+Colombia,Technology,2021-03-05 00:00:00,30957,Open,English,10,0,0,20
+Colombia,Technology,2021-03-05 00:00:00,23261,Open,English,4,0,0,143
+Colombia,Technology,2021-03-05 00:00:00,28163,Open,English,2,0,0,34
+Colombia,Technology,2021-03-05 00:00:00,22281,Open,English,1,0,0,56
+Colombia,Technology,2021-03-05 00:00:00,25825,Open,English,1,0,0,16
+Colombia,Technology,2021-03-05 00:00:00,28732,Open,English,1,0,0,27
+Colombia,Technology,2021-03-07 00:00:00,24338,Open,English,1,0,0,57
+Colombia,Healthcare,2021-03-15 00:00:00,28399,Canceled,English,15,0,0,0
+Colombia,Technology,2021-03-15 00:00:00,20559,Open,English,2,0,0,94
+Colombia,Technology,2021-03-28 00:00:00,26866,Open,English,1,0,0,22
+Colombia,Banking,2021-03-30 00:00:00,24084,Canceled,English,24,0,0,0
+Colombia,Healthcare,2021-05-24 00:00:00,25390,Canceled,English,25,0,0,0
+Colombia,Healthcare,2021-07-26 00:00:00,30747,Canceled,English,10,0,0,0
+Colombia,Healthcare,2021-09-20 00:00:00,27719,Canceled,English,20,0,0,0
+Colombia,Healthcare,2021-12-06 00:00:00,26880,Canceled,English,12,0,0,0
+Colombia,Technology,2021-01-11 00:00:00,21766,Canceled,Spanish,6,0,0,0
+Colombia,Technology,2021-01-11 00:00:00,21452,Filled,Spanish,20,20,20,107
+Colombia,Telecommunication,2021-01-12 00:00:00,28430,Filled,Spanish,10,11,10,50
+Colombia,Telecommunication,2021-01-13 00:00:00,25616,Filled,Spanish,45,47,45,44
+Colombia,Telecommunication,2021-01-18 00:00:00,28447,Canceled,Spanish,20,0,0,0
+Colombia,Telecommunication,2021-01-25 00:00:00,22224,Filled,Spanish,15,15,15,149
+Colombia,Technology,2021-01-25 00:00:00,27755,On Hold,Spanish,8,0,0,23
+Colombia,Technology,2021-02-01 00:00:00,21262,Canceled,Spanish,10,0,0,0
+Colombia,Technology,2021-02-01 00:00:00,28255,Canceled,Spanish,10,0,0,0
+Colombia,Technology,2021-02-01 00:00:00,24118,Filled,Spanish,10,10,10,127
+Colombia,Telecommunication,2021-02-03 00:00:00,26437,Filled,Spanish,30,32,30,15
+Colombia,Telecommunication,2021-03-01 00:00:00,30298,Open,Spanish,6,0,0,35
+Colombia,Technology,2021-03-08 00:00:00,21098,Canceled,Spanish,10,0,0,0
+Colombia,Travel,2021-03-12 00:00:00,29389,Open,Spanish,10,0,0,117
+India,Mortgage,2021-01-13 00:00:00,20010,Canceled,English,11,0,0,0
+India,Mortgage,2021-02-08 00:00:00,28495,Canceled,English,6,0,0,0
+India,Technology,2021-02-16 00:00:00,21111,Canceled,English,15,0,0,0
+Jamaica,Banking,2021-01-04 00:00:00,27165,Filled,English,10,10,10,112
+Jamaica,Banking,2021-01-04 00:00:00,26761,Filled,English,28,31,22,52
+Jamaica,Banking,2021-01-11 00:00:00,28612,Filled,English,16,17,16,171
+Jamaica,Banking,2021-01-11 00:00:00,27120,Filled,English,8,12,6,29
+Jamaica,Banking,2021-01-11 00:00:00,21780,Filled,English,8,12,5,34
+Jamaica,Banking,2021-01-11 00:00:00,25457,Filled,English,26,26,26,105
+Jamaica,Banking,2021-01-18 00:00:00,20547,Filled,English,18,18,18,82
+Jamaica,Banking,2021-01-18 00:00:00,22074,Filled,English,17,18,18,176
+Jamaica,Technology,2021-01-18 00:00:00,26338,Filled,English,20,25,20,84
+Jamaica,Telecommunication,2021-01-18 00:00:00,29667,Filled,English,17,18,17,56
+Jamaica,Banking,2021-01-18 00:00:00,30720,Filled,English,7,9,7,102
+Jamaica,Telecommunication,2021-01-18 00:00:00,26831,Filled,English,10,12,10,99
+Jamaica,Banking,2021-01-18 00:00:00,23388,Filled,English,28,29,28,94
+Jamaica,Telecommunication,2021-01-25 00:00:00,20756,Filled,English,18,18,18,96
+Jamaica,Banking,2021-02-01 00:00:00,30802,Canceled,English,17,0,0,28
+Jamaica,Banking,2021-02-21 00:00:00,28024,Open,English,4,5,5,83
+Jamaica,FTP - Financial Transformation Process,2021-02-21 00:00:00,21374,Open,English,1,1,1,42
+Jamaica,Banking,2021-02-21 00:00:00,29996,Open,English,9,10,10,121
+Jamaica,Retail,2021-03-01 00:00:00,25819,Open,English,19,21,20,116
+Jamaica,Telecommunication,2021-03-01 00:00:00,30523,Open,English,12,7,5,63
+Jamaica,Banking,2021-03-01 00:00:00,29631,Open,English,8,9,8,19
+Jamaica,Banking,2021-03-01 00:00:00,26659,Open,English,5,8,5,84
+Jamaica,Telecommunication,2021-02-15 00:00:00,26672,Open,English,15,3,0,78
+Jamaica,Telecommunication,2021-02-22 00:00:00,29068,Open,English,15,0,0,161
+Jamaica,Travel,2021-02-22 00:00:00,27859,Open,English,28,0,0,113
+Malaysia,Travel,2021-01-25 00:00:00,21658,Filled,English,9,10,9,140
+Malaysia,Telecommunication,2021-01-29 00:00:00,24675,Filled,English,5,5,5,17
+Malaysia,Telecommunication,2021-01-29 00:00:00,23580,Filled,English,10,10,10,85
+Malaysia,Travel,2021-01-25 00:00:00,21017,Filled,Japanese,4,4,4,82
+Mexico,Telecommunication,2021-01-19 00:00:00,30418,Filled,English,16,18,16,65
+Mexico,Healthcare,2021-02-01 00:00:00,27785,Filled,English,18,18,18,143
+Mexico,Telecommunication,2021-02-02 00:00:00,20893,Canceled,English,15,0,0,0
+Mexico,Technology,2021-02-02 00:00:00,24060,Filled,English,12,14,12,108
+Mexico,Technology,2021-03-01 00:00:00,26618,Open,English,15,0,0,73
+Mexico,Healthcare,2021-03-01 00:00:00,20508,Canceled,English,15,0,0,0
+Mexico,Retail,2021-03-01 00:00:00,21248,Open,English,16,0,0,169
+Mexico,Healthcare,2021-12-31 00:00:00,23117,Canceled,English,180,0,0,0
+Mexico,Insurance,2021-02-22 00:00:00,25975,Open,Spanish,4,0,0,163
+Philippines,Technology,2021-01-04 00:00:00,30343,Filled,Chinese,1,1,1,132
+Philippines,Technology,2021-01-19 00:00:00,29363,Filled,Chinese,14,14,14,137
+Philippines,Technology,2021-01-25 00:00:00,27733,Filled,Chinese,1,1,1,151
+Philippines,Technology,2021-02-26 00:00:00,26830,Open,Chinese,20,16,13,76
+Philippines,Retail,2021-01-04 00:00:00,21611,Canceled,English,15,0,0,0
+Philippines,Retail,2021-01-04 00:00:00,30016,Canceled,English,15,0,0,0
+Philippines,Retail,2021-01-04 00:00:00,23924,Canceled,English,15,0,0,0
+Philippines,Travel,2021-01-04 00:00:00,28903,Canceled,English,25,0,0,0
+Philippines,Travel,2021-01-05 00:00:00,25789,Filled,English,11,12,11,26
+Philippines,Telecommunication,2021-01-05 00:00:00,28175,Filled,English,22,23,22,80
+Philippines,Telecommunication,2021-01-05 00:00:00,24086,Filled,English,1,1,1,48
+Philippines,Mortgage,2021-01-05 00:00:00,29538,Filled,English,25,26,25,114
+Philippines,Banking,2021-01-05 00:00:00,30415,Filled,English,7,7,7,27
+Philippines,Telecommunication,2021-01-05 00:00:00,29547,Filled,English,10,10,10,18
+Philippines,Banking,2021-01-07 00:00:00,29048,Canceled,English,17,0,0,0
+Philippines,Telecommunication,2021-01-07 00:00:00,23370,Filled,English,21,21,21,163
+Philippines,Insurance,2021-01-08 00:00:00,29731,Filled,English,1,1,1,168
+Philippines,Insurance,2021-01-08 00:00:00,26182,Filled,English,1,1,1,128
+Philippines,Technology,2021-01-08 00:00:00,26371,Filled,English,1,1,1,23
+Philippines,Telecommunication,2021-01-08 00:00:00,24019,Filled,English,39,49,39,145
+Philippines,Retail,2021-01-11 00:00:00,25522,Canceled,English,15,0,0,0
+Philippines,Retail,2021-01-11 00:00:00,30671,Canceled,English,15,0,0,0
+Philippines,Retail,2021-01-11 00:00:00,26366,Canceled,English,15,0,0,0
+Philippines,Retail,2021-01-11 00:00:00,26125,Canceled,English,15,0,0,0
+Philippines,Retail,2021-01-11 00:00:00,25731,Canceled,English,10,0,0,0
+Philippines,Mortgage,2021-01-11 00:00:00,25423,Filled,English,13,13,13,148
+Philippines,Mortgage,2021-01-11 00:00:00,30348,Filled,English,1,1,1,42
+Philippines,Telecommunication,2021-01-11 00:00:00,21883,Filled,English,20,20,20,148
+Philippines,Technology,2021-01-11 00:00:00,22465,Filled,English,19,21,19,79
+Philippines,Technology,2021-01-11 00:00:00,30973,Filled,English,9,9,9,28
+Philippines,Technology,2021-01-12 00:00:00,25363,Canceled,English,12,0,0,0
+Philippines,Telecommunication,2021-01-12 00:00:00,20346,Filled,English,5,5,5,70
+Philippines,Telecommunication,2021-01-12 00:00:00,30904,Filled,English,10,10,10,54
+Philippines,Banking,2021-01-12 00:00:00,30825,Filled,English,15,16,15,135
+Philippines,Banking,2021-01-12 00:00:00,25010,Filled,English,15,15,15,167
+Philippines,Banking,2021-01-12 00:00:00,24040,Filled,English,3,3,3,16
+Philippines,Telecommunication,2021-01-13 00:00:00,25474,Canceled,English,11,13,0,0
+Philippines,FTP - Financial Transformation Process,2021-01-13 00:00:00,23832,Filled,English,2,2,3,77
+Philippines,Mortgage,2021-01-13 00:00:00,29243,Filled,English,11,11,11,82
+Philippines,Mortgage,2021-01-14 00:00:00,22878,Filled,English,15,16,15,71
+Philippines,Mortgage,2021-01-14 00:00:00,20250,Filled,English,5,5,5,169
+Philippines,Telecommunication,2021-01-15 00:00:00,29358,Filled,English,41,45,41,22
+Philippines,Telecommunication,2021-01-15 00:00:00,21054,Filled,English,43,47,43,143
+Philippines,Telecommunication,2021-01-18 00:00:00,26920,Filled,English,25,25,25,12
+Philippines,Retail,2021-01-18 00:00:00,23317,Filled,English,5,5,5,22
+Philippines,Banking,2021-01-18 00:00:00,27585,Filled,English,15,15,15,112
+Philippines,Insurance,2021-01-18 00:00:00,29443,Filled,English,2,2,2,128
+Philippines,Telecommunication,2021-01-18 00:00:00,26912,Filled,English,16,16,16,50
+Philippines,Retail,2021-01-18 00:00:00,22801,Filled,English,5,5,5,115
+Philippines,Retail,2021-01-18 00:00:00,24656,Filled,English,24,25,25,46
+Philippines,Telecommunication,2021-01-19 00:00:00,25578,Canceled,English,8,0,0,0
+Philippines,Telecommunication,2021-01-19 00:00:00,25314,Canceled,English,5,0,0,0
+Philippines,Amazon,2021-01-19 00:00:00,26614,Filled,English,24,25,24,106
+Philippines,Healthcare,2021-01-19 00:00:00,26541,Filled,English,3,3,3,177
+Philippines,Technology,2021-01-19 00:00:00,27981,Filled,English,1,1,1,123
+Philippines,Telecommunication,2021-01-19 00:00:00,27603,Filled,English,23,0,23,36
+Philippines,Retail,2021-01-19 00:00:00,29867,Filled,English,0,34,28,89
+Philippines,Retail,2021-01-19 00:00:00,27640,Filled,English,0,13,12,173
+Philippines,Telecommunication,2021-01-21 00:00:00,22556,Filled,English,20,20,20,15
+Philippines,Technology,2021-01-21 00:00:00,22412,Filled,English,25,25,25,17
+Philippines,Retail,2021-01-21 00:00:00,27006,Filled,English,0,4,4,51
+Philippines,Telecommunication,2021-01-22 00:00:00,30293,Filled,English,71,71,71,102
+Philippines,Retail,2021-01-25 00:00:00,21513,Canceled,English,11,0,0,0
+Philippines,Amazon,2021-01-25 00:00:00,27840,Filled,English,13,13,13,172
+Philippines,Banking,2021-01-25 00:00:00,20940,Filled,English,15,16,16,169
+Philippines,Healthcare,2021-01-25 00:00:00,21745,Filled,English,17,17,17,95
+Philippines,Telecommunication,2021-01-25 00:00:00,27707,Filled,English,21,22,22,99
+Philippines,Mortgage,2021-01-25 00:00:00,28429,Filled,English,16,17,16,179
+Philippines,Mortgage,2021-01-25 00:00:00,27335,Filled,English,2,2,2,65
+Philippines,Telecommunication,2021-01-25 00:00:00,21051,Filled,English,10,10,10,108
+Philippines,Technology,2021-01-25 00:00:00,28306,Filled,English,8,8,8,121
+Philippines,Retail,2021-01-25 00:00:00,21909,Filled,English,5,5,5,150
+Philippines,Insurance,2021-01-25 00:00:00,23944,Filled,English,9,9,9,76
+Philippines,Telecommunication,2021-01-25 00:00:00,28288,Filled,English,16,16,16,129
+Philippines,Technology,2021-01-25 00:00:00,24470,Filled,English,19,22,19,82
+Philippines,Retail,2021-01-25 00:00:00,28305,Filled,English,42,43,43,66
+Philippines,Telecommunication,2021-01-27 00:00:00,26873,Filled,English,15,15,15,103
+Philippines,Amazon,2021-01-31 00:00:00,20801,Filled,English,26,26,26,107
+Philippines,Travel,2021-02-01 00:00:00,30178,Canceled,English,15,0,0,0
+Philippines,Telecommunication,2021-02-01 00:00:00,28353,Filled,English,16,17,16,131
+Philippines,Technology,2021-02-02 00:00:00,24208,Filled,English,1,1,1,31
+Philippines,Technology,2021-02-02 00:00:00,26022,Filled,English,1,1,1,43
+Philippines,Insurance,2021-02-03 00:00:00,28846,Filled,English,1,1,1,104
+Philippines,FTP - Financial Transformation Process,2021-02-05 00:00:00,22262,Filled,English,1,1,1,109
+Philippines,FTP - Financial Transformation Process,2021-02-05 00:00:00,29990,Filled,English,1,1,1,57
+Philippines,FTP - Financial Transformation Process,2021-02-05 00:00:00,24631,Filled,English,1,1,1,65
+Philippines,Enterprise,2021-03-01 00:00:00,26292,Open,English,4,5,3,66
+Philippines,FTP - Financial Transformation Process,2021-03-01 00:00:00,23104,Open,English,1,0,0,177
+Philippines,Healthcare,2021-03-01 00:00:00,21510,Open,English,1,0,0,115
+Philippines,Mortgage,2021-03-01 00:00:00,22913,Open,English,18,19,17,137
+Philippines,Mortgage,2021-03-01 00:00:00,24813,Open,English,6,6,6,139
+Philippines,Mortgage,2021-03-01 00:00:00,25872,Open,English,6,5,4,54
+Philippines,Telecommunication,2021-03-01 00:00:00,24421,Open,English,16,0,0,33
+Philippines,Technology,2021-03-01 00:00:00,24868,Open,English,20,20,20,90
+Philippines,Technology,2021-02-09 00:00:00,22502,Canceled,English,12,0,0,0
+Philippines,Banking,2021-02-26 00:00:00,28718,Open,English,17,17,17,140
+Philippines,Banking,2021-02-26 00:00:00,28441,Open,English,11,12,12,175
+Philippines,Banking,2021-02-26 00:00:00,24006,Open,English,4,3,0,71
+Philippines,Technology,2021-02-26 00:00:00,27438,Open,English,12,0,0,134
+Philippines,Amazon,2021-02-26 00:00:00,30995,Open,English,25,3,3,177
+Philippines,Insurance,2021-02-26 00:00:00,27352,Open,English,1,0,0,138
+Philippines,Insurance,2021-02-26 00:00:00,22195,Open,English,3,0,0,95
+Philippines,Telecommunication,2021-02-26 00:00:00,22343,Open,English,42,19,19,140
+Philippines,Telecommunication,2021-02-15 00:00:00,28184,Canceled,English,25,0,0,0
+Philippines,Technology,2021-02-16 00:00:00,20277,Open,English,15,0,0,37
+Philippines,FTP - Financial Transformation Process,2021-02-16 00:00:00,29690,Open,English,2,0,0,163
+Philippines,FTP - Financial Transformation Process,2021-02-16 00:00:00,29410,Open,English,1,0,0,44
+Philippines,FTP - Financial Transformation Process,2021-02-16 00:00:00,25914,Open,English,1,0,0,59
+Philippines,Banking,2021-02-22 00:00:00,21132,Open,English,1,0,0,176
+Philippines,Technology,2021-02-23 00:00:00,23305,Open,English,1,0,0,71
+Philippines,Travel,2021-02-28 00:00:00,22636,Filled,English,1,1,1,36
+Philippines,Healthcare,2021-02-28 00:00:00,21318,Open,English,3,1,1,78
+Philippines,Healthcare,2021-02-28 00:00:00,21961,Open,English,8,4,4,96
+Philippines,Healthcare,2021-03-01 00:00:00,28515,Open,English,4,0,0,127
+Philippines,Digital,2021-03-01 00:00:00,23859,Open,English,1,2,0,105
+Philippines,Mortgage,2021-03-08 00:00:00,28344,Open,English,22,0,0,115
+Philippines,Mortgage,2021-03-08 00:00:00,30165,Open,English,2,0,0,72
+Philippines,Mortgage,2021-03-08 00:00:00,20307,Open,English,15,0,0,85
+Philippines,Digital,2021-03-10 00:00:00,29660,Open,English,2,2,1,53
+Philippines,FTP - Financial Transformation Process,2021-03-12 00:00:00,20360,Open,English,3,1,1,66
+Philippines,FTP - Financial Transformation Process,2021-03-12 00:00:00,29148,Open,English,5,1,1,99
+Philippines,Telecommunication,2021-03-12 00:00:00,27802,Open,English,42,0,0,51
+Philippines,Banking,2021-03-14 00:00:00,21378,Open,English,3,4,1,51
+Philippines,FTP - Financial Transformation Process,2021-03-19 00:00:00,26662,Open,English,1,0,0,76
+Philippines,Telecommunication,2021-03-19 00:00:00,22898,Open,English,21,0,0,12
+Philippines,Digital,2021-03-20 00:00:00,30306,Filled,English,2,1,1,150
+Philippines,Digital,2021-03-20 00:00:00,21554,Filled,English,2,2,2,138
+Philippines,Digital,2021-03-31 00:00:00,24256,Filled,English,2,3,2,172
+Philippines,Amazon,2021-03-31 00:00:00,28832,Open,English,1,2,1,146
+Philippines,Digital,2021-03-31 00:00:00,29971,Open,English,2,3,1,149
+United States,Government,2021-01-04 00:00:00,26605,Filled,English,4,4,4,128
+United States,Telecommunication,2021-01-04 00:00:00,21602,Filled,English,2,4,2,140
+United States,Telecommunication,2021-01-04 00:00:00,25433,Filled,English,15,22,13,91
+United States,Telecommunication,2021-01-04 00:00:00,24021,Filled,English,1,1,1,107
+United States,Telecommunication,2021-01-04 00:00:00,20253,Filled,English,1,1,1,24
+United States,Telecommunication,2021-01-04 00:00:00,27542,Filled,English,15,19,15,33
+United States,Banking,2021-01-11 00:00:00,20978,Canceled,English,7,8,0,25
+United States,Insurance,2021-01-11 00:00:00,23334,Filled,English,5,5,5,68
+United States,Healthcare,2021-01-11 00:00:00,27093,Filled,English,1,1,1,37
+United States,Banking,2021-01-11 00:00:00,29336,Filled,English,9,20,9,45
+United States,Telecommunication,2021-01-11 00:00:00,29732,Filled,English,5,8,7,14
+United States,Insurance,2021-01-11 00:00:00,23670,Filled,English,14,16,14,132
+United States,Mortgage,2021-01-18 00:00:00,20407,Filled,English,1,1,1,53
+United States,Healthcare,2021-01-18 00:00:00,30857,Filled,English,2,2,2,63
+United States,Banking,2021-01-18 00:00:00,22028,Filled,English,13,16,11,86
+United States,Technology,2021-01-18 00:00:00,27866,Filled,English,26,31,26,48
+United States,FTP - Financial Transformation Process,2021-01-18 00:00:00,22165,Filled,English,1,1,1,103
+United States,Technology,2021-01-18 00:00:00,26244,Filled,English,1,1,1,39
+United States,Telecommunication,2021-01-18 00:00:00,23318,Filled,English,30,34,30,20
+United States,Telecommunication,2021-01-25 00:00:00,30984,Filled,English,3,3,3,95
+United States,Banking,2021-01-25 00:00:00,25112,Filled,English,1,1,1,37
+United States,Retail,2021-02-01 00:00:00,20729,Filled,English,1,2,2,131
+United States,Telecommunication,2021-03-01 00:00:00,28092,Open,English,8,9,9,21
+United States,Banking,2021-03-01 00:00:00,23996,Open,English,15,21,21,13
+United States,Technology,2021-03-01 00:00:00,22375,Open,English,2,2,2,151
+United States,Insurance,2021-03-01 00:00:00,22904,Open,English,12,13,13,18
+United States,Insurance,2021-03-01 00:00:00,23241,Open,English,10,20,18,108
+United States,Insurance,2021-03-01 00:00:00,24054,Open,English,8,11,11,107
+United States,FTP - Financial Transformation Process,2021-02-15 00:00:00,21988,Filled,English,1,1,1,118
+United States,FTP - Financial Transformation Process,2021-02-15 00:00:00,30913,Filled,English,1,1,1,74
+United States,Telecommunication,2021-02-15 00:00:00,26481,Open,English,25,41,41,153
+United States,Telecommunication,2021-02-15 00:00:00,23817,Open,English,5,3,3,173
+United States,Banking,2021-02-22 00:00:00,25897,Open,English,12,15,12,12
+United States,Banking,2021-02-22 00:00:00,29864,Open,English,2,1,0,158
+United States,Mortgage,2021-02-23 00:00:00,24104,Open,English,5,2,2,65
+United States,Government,2021-03-01 00:00:00,22105,Open,English,13,6,6,138
+United States,Telecommunication,2021-03-08 00:00:00,27989,Open,English,25,0,0,48
+United States,Telecommunication,2021-03-08 00:00:00,26003,Open,English,15,0,0,161
+United States,Mortgage,2021-03-23 00:00:00,28623,Open,English,5,4,4,144
+United States,FTP - Financial Transformation Process,2021-03-29 00:00:00,25292,Open,English,1,0,0,93
+United States,Mortgage,2021-03-29 00:00:00,21237,Open,English,3,2,2,56
+United States,Mortgage,2021-03-30 00:00:00,21986,Open,English,4,0,0,44
